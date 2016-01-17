@@ -1,0 +1,5 @@
+Your cell is now lit by a grid of lights embedded in the walls. The room is devoid of any decoration and is simply a series of sterile white surfaces. You'd be very board if it weren't for the bed and the door.
+
+The panel's newfound lack of blinking lights causes you to yawn on sight.
+
+Press B to view Bed, and D to view Door
